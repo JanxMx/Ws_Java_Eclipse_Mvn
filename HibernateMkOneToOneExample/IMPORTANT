@@ -1,0 +1,15 @@
+------- Hibernate One to One (Mkyong)  -------
+
+In this exercise tables are created automatically by Hibernate
+
+----------------- Test Code ------------------
+
+1- Run Main
+
+use janx;
+
+select *
+from stock;
+
+select *
+from stock_detail;

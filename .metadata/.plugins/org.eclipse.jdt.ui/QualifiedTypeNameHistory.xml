@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.concurrent.ExecutionException"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="com.google.common.base.MoreObjects"/>
+<fullyQualifiedTypeName name="com.google.common.cache.LoadingCache"/>
+<fullyQualifiedTypeName name="com.google.common.cache.CacheBuilder"/>
+<fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+<fullyQualifiedTypeName name="com.google.common.cache.CacheLoader"/>
+<fullyQualifiedTypeName name="java.util.logging.Logger"/>
+<fullyQualifiedTypeName name="java.util.logging.Level"/>
+<fullyQualifiedTypeName name="com.google.common.annotations.VisibleForTesting"/>
+<fullyQualifiedTypeName name="org.junit.Assert"/>
+<fullyQualifiedTypeName name="junit.framework.AssertionFailedError"/>
+</qualifiedTypeNameHistroy>

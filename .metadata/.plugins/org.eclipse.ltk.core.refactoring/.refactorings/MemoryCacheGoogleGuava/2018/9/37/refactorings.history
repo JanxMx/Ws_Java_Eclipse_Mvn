@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;IMPORTANT.txt&apos; to &apos;MemoryCacheApacheLRUMap&apos;&#x0D;&#x0A;- Original project: &apos;MemoryCacheGoogleGuava&apos;&#x0D;&#x0A;- Destination element: &apos;MemoryCacheApacheLRUMap&apos;&#x0D;&#x0A;- Original element: &apos;IMPORTANT.txt&apos;" description="Copy file" destination="=MemoryCacheApacheLRUMap" element1="IMPORTANT.txt" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1536764998870" units="0" version="1.0"/>
+</session>

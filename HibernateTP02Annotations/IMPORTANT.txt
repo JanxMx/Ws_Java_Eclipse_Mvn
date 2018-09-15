@@ -1,0 +1,29 @@
+-------------- HibernateTP02 ---------------
+
+use testdb;
+
+create table EMPLOYEE (
+	id INT NOT NULL auto_increment,
+	first_name VARCHAR(20) default NULL,
+	last_name  VARCHAR(20) default NULL,
+	salary     INT  default NULL,
+	PRIMARY KEY (id)
+);
+
+select *
+from employee;
+	
+-------------- Test Project ----------------	
+	
+2- Use Maven for load dependencies, it's much better than load manually.
+3- Run Main 
+
+First Name: Zara  Last Name: Ali  Salary: 5000
+First Name: John  Last Name: Paul  Salary: 10000
+First Name: Zara  Last Name: Ali  Salary: 1000
+First Name: Daisy  Last Name: Das  Salary: 5000
+First Name: John  Last Name: Paul  Salary: 10000
+First Name: Zara  Last Name: Ali  Salary: 5000
+First Name: John  Last Name: Paul  Salary: 10000
+First Name: Zara  Last Name: Ali  Salary: 5000
+First Name: John  Last Name: Paul  Salary: 10000
